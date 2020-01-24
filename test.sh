@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello polarbear"
+echo "hello polar"
 }
 
 func
